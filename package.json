@@ -1,6 +1,6 @@
 {
   "name": "apis-endpoints-middleware",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "author": {
     "name": "Kristján Ingi Mikaelsson",
     "email": "kristjanmik@gmail.com"
@@ -11,8 +11,8 @@
     "url": "https://github.com/kristjanmik/apis-endpoints-middleware.git"
   },
   "dependencies": {
-    "apis-flights": "~0.1.2",
-    "apis-car": "~0.1.0",
-    "apis-firm": "~0.1.1"
+    "apis-flights": "*",
+    "apis-car": "*",
+    "apis-firm": "*"
   }
 }
