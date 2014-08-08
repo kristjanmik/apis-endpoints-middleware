@@ -6,7 +6,8 @@ module.exports = function(app){
         'firm': 'apis-firm',
         'price': 'apis-price', 
         'currency': 'apis-currency', 
-        'names': 'apis-names-lookup' 
+        'names': 'apis-names-lookup' ,
+        'particulates': 'apis-particulates'
     }
 
     for(var i in map){
