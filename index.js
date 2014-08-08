@@ -6,7 +6,7 @@ module.exports = function(app){
         'firm': 'apis-firm',
         'price': 'apis-price', 
         'currency': 'apis-currency', 
-        'lottery': 'apis-lottery-results' 
+        'names': 'apis-names-lookup' 
     }
 
     for(var i in map){
