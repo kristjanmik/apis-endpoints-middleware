@@ -1,6 +1,6 @@
 {
   "name": "apis-endpoints-middleware",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": {
     "name": "Kristján Ingi Mikaelsson",
     "email": "kristjanmik@gmail.com"
@@ -15,6 +15,7 @@
     "apis-car": "*",
     "apis-firm": "*",
     "apis-price": "*",
-    "apis-currency": "*"
+    "apis-currency": "*",
+    "apis-lottery-results": "*"
   }
 }

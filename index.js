@@ -5,7 +5,8 @@ module.exports = function(app){
         'car': 'apis-car',
         'firm': 'apis-firm',
         'price': 'apis-price', 
-        'currency': 'apis-currency' 
+        'currency': 'apis-currency', 
+        'lottery': 'apis-lottery-results' 
     }
 
     for(var i in map){
