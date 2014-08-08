@@ -3,7 +3,9 @@ module.exports = function(app){
         //prefix: module-name
         'flights': 'apis-flights',
         'car': 'apis-car',
-        'firm': 'apis-firm' 
+        'firm': 'apis-firm',
+        'price': 'apis-price', 
+        'currency': 'apis-currency' 
     }
 
     for(var i in map){

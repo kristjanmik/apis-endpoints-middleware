@@ -1,6 +1,6 @@
 {
   "name": "apis-endpoints-middleware",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "author": {
     "name": "Kristján Ingi Mikaelsson",
     "email": "kristjanmik@gmail.com"
@@ -13,6 +13,8 @@
   "dependencies": {
     "apis-flights": "*",
     "apis-car": "*",
-    "apis-firm": "*"
+    "apis-firm": "*",
+    "apis-price": "*",
+    "apis-currency": "*"
   }
 }
