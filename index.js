@@ -7,7 +7,8 @@ module.exports = function(app){
         'currency': 'apis-currency', 
         'names': 'apis-names-lookup' ,
         'particulates': 'apis-particulates',
-        'cyclecounter': 'apis-cyclecounter'
+        'cyclecounter': 'apis-cyclecounter',
+        'declension': 'apis-declension',
     }
 
     for(var i in map){
