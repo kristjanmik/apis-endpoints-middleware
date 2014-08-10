@@ -20,6 +20,7 @@
     "apis-names-lookup": "*",
     "apis-particulates": "*",
     "apis-cyclecounter": "*",
-    "apis-declension": "*"
+    "apis-declension": "*",
+    "apis-cinema": "0.0.0"
   }
 }
