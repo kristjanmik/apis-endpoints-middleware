@@ -22,7 +22,7 @@
     "apis-cyclecounter": "*",
     "apis-declension": "*",
     "apis-earthquake": "*",
-    "apis-buses": "*"
-
+    "apis-buses": "*",
+    "apis-cinema": "0.0.0"
   }
 }
