@@ -1,6 +1,6 @@
 {
   "name": "apis-endpoints-middleware",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "author": {
     "name": "Kristján Ingi Mikaelsson",
     "email": "kristjanmik@gmail.com"
@@ -20,6 +20,9 @@
     "apis-names-lookup": "*",
     "apis-particulates": "*",
     "apis-cyclecounter": "*",
-    "apis-declension": "*"
+    "apis-declension": "*",
+    "apis-earthquake": "*",
+    "apis-buses": "*"
+
   }
 }

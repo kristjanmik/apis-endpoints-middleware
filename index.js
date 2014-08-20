@@ -9,6 +9,8 @@ module.exports = function(app){
         'particulates': 'apis-particulates',
         'cyclecounter': 'apis-cyclecounter',
         'declension': 'apis-declension',
+        'earthquake': 'apis-earthquake',
+        'buses': 'apis-buses',
     }
 
     for(var i in map){
