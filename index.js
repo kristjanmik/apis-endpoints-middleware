@@ -5,6 +5,7 @@ module.exports = function(app){
         'firm': 'apis-firm',
         'price': 'apis-price', 
         'currency': 'apis-currency', 
+        'cinema': 'apis-cinema', 
         'names': 'apis-names-lookup' ,
         'particulates': 'apis-particulates',
         'cyclecounter': 'apis-cyclecounter',
